@@ -1,0 +1,45 @@
+* {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Itim', cursive;
+}
+
+body {
+    background-color: gray;
+    margin-top: 100px;
+}
+
+.app {
+    text-align: center;
+    margin: auto;
+    background-color: rgb(44, 44, 44);
+    width: 350px;
+    height: 300px;
+    margin-top: 200px;
+}
+div {
+    border-radius: 10px;
+}
+
+.question-count {
+    background-color: rgb(214, 210, 210);
+    border: 1px solid black;
+    margin: auto;
+    width: 350px;
+    height: 30px;
+}
+
+.question-text {
+    background-color: rgb(177, 174, 174);
+    width: 350px;
+    height: 30px;
+}
+
+button {
+    background-color: rgb(63, 62, 62);
+    display: block;
+    margin: auto;
+    width: 200px;
+    margin-bottom: 10px;
+    color: white;
+    border-radius: 20px;
+}
